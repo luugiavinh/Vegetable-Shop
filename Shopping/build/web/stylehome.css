@@ -1,0 +1,102 @@
+body img{
+	width: 100%;
+	height: 100%;
+}
+
+.container{
+
+    width: 100%;
+}
+
+h1{
+    font-family: cursive;
+    font-style: oblique;
+    color: #50cf5b;
+}
+
+h2{
+    font-family: cursive;
+    font-style: oblique;
+    color: #50cf5b;
+}
+
+#servicetitle{
+	text-align: center;
+}
+
+.relative{
+    position: absolute;
+    bottom:20px;
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+    background-color: rgba(#58515F,0.5);
+}
+
+.sanpham img {
+	width: 100%;
+	height: 100%;
+	
+}
+
+.sanpham .combo{
+	background-color: #fffff2 ;
+	font-size: 16px;
+
+}
+
+.sanpham .combo p{
+	text-align: center;
+	padding: 3px;
+        margin: 10px;
+}
+
+.sanpham .combodetail{
+	padding-top: 100px;
+	border-bottom: 2px dashed ;
+}
+
+.promotion{
+	text-align: center;
+}
+
+.promotion p{
+	color: lightgray;
+	font-size: 20px;
+}
+
+.specialoffer{
+	text-align: center;
+}
+
+.specialoffer p{
+	color: lightgray;
+	font-size: 23px;
+}
+
+.sale{
+	background-color: lightgray;
+	text-align: left;
+	
+}
+
+.sale p{
+	padding: 3px 0px;
+    margin: 10px;
+	font-size: 15px;
+}
+
+.discountdetail{
+	border-bottom: 2px dashed ;
+}
+
+.contactinfo{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px 0px;
+}
+
+#lastchild{
+	margin-top: 20px;
+}

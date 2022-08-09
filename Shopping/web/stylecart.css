@@ -1,0 +1,54 @@
+.user{
+    text-align: left;
+    font-size: 17px;
+    margin-left: 650px
+}
+
+.userbackground{
+    background-image: url("images/userbackground.jpg");
+}
+
+h1{
+    font-family: cursive;
+    font-style: oblique;
+    color: #50cf5b;
+}
+
+h2{
+    font-family: cursive;
+    font-style: oblique;
+    color: #50cf5b;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+    width: 8%
+}
+
+table{
+    background-color: #fffff2 ;
+}
+
+input{
+    background-color: #fffff2 ;
+    border-color: #fffff2;
+}
+
+#servicetitle{
+	text-align: center;
+}
+
+.contactinfo{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px 0px;
+}
+
+#lastchild{
+	margin-top: 20px;
+}
